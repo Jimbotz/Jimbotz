@@ -2,15 +2,18 @@
 
 ## AI Engineering Student | IPN
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; gap: 40px;">
 
-<div style="flex: 1;">
-<pre>
-Developer • AI/ML Engineer
-LangChain • Python • JavaScript • SQL
-ETL Pipelines • Data Engineering
-Tech news • Music • Hard games • 3D modeling
-</pre>
+<div style="flex: 1; font-family: 'Segoe UI', Arial, sans-serif; line-height: 1.8;">
+
+**Developer** &bull; **AI/ML Engineer**
+
+LangChain &bull; Python &bull; JavaScript &bull; SQL
+
+ETL Pipelines &bull; Data Engineering
+
+Tech news &bull; Music &bull; Hard games &bull; 3D modeling
+
 </div>
 
 <div style="flex: 1; text-align: center;">
