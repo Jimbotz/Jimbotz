@@ -2,16 +2,14 @@
 
 ## AI Engineering Student | IPN
 
-<img align="right" src="https://github.com/Jimbotz/Jimbotz/raw/main/images/hi.gif" height="80" />
-
 ---
 
-<pre>
+|<pre>
     Developer • AI/ML Engineer
     LangChain • Python • JavaScript • SQL
     ETL Pipelines • Data Engineering
     Tech news • Music • Hard games • 3D modeling
-</pre>
+</pre>|<img src="https://github.com/Jimbotz/Jimbotz/raw/main/images/hi.gif" height="100" align="right" />|
 
 ---
 
@@ -33,7 +31,3 @@
 <a href="https://www.linkedin.com/in/jayme-said-barbosa-hern%C3%A1ndez-a535ab20b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" width="90" height="28"></a>
 <a href="https://leetcode.com/u/Jimbotz/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" width="90" height="28"></a>
 <a href="mailto:jaymesaidbarbosahernandez@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" width="90" height="28"></a>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=Jimbotz&color=000&style=flat-square" />
