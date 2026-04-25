@@ -1,6 +1,6 @@
-# ¡Hola, soy Jayme Said Barbosa Hernandez! <img src="https://github.com/Jimbotz/Jimbotz/raw/main/images/hi.gif" height="40" />
+# Hey, I'm Jayme Said Barbosa Hernandez! <img src="https://github.com/Jimbotz/Jimbotz/raw/main/images/hi.gif" height="60" />
 
-## Estudiante de Ingeniería en Inteligencia Artificial | IPN
+## AI Engineering Student | IPN
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-## Conéctate conmigo
+## Connect with me
 
 <a href="https://www.linkedin.com/in/jayme-said-barbosa-hern%C3%A1ndez-a535ab20b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" width="90" height="28"></a>
 <a href="https://leetcode.com/u/Jimbotz/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" width="90" height="28"></a>
@@ -34,4 +34,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jimbotz&label=Profile%20Views&color=000&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jimbotz&label=Profile%20Views&color=000&style=flat-square" />
+</p>
