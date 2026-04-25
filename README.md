@@ -13,8 +13,8 @@ Tech news • Music • Hard games • 3D modeling
 </pre>
 </div>
 
-<div style="flex: 1; text-align: right;">
-<img src="https://github.com/Jimbotz/Jimbotz/raw/main/images/hi.gif" height="100" />
+<div style="flex: 1; text-align: center;">
+<img src="https://github.com/Jimbotz/Jimbotz/raw/main/images/hi.gif" height="300" />
 </div>
 
 </div>
