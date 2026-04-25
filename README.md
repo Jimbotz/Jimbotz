@@ -2,14 +2,22 @@
 
 ## AI Engineering Student | IPN
 
----
+<div style="display: flex; align-items: center;">
 
-|<pre>
-    Developer • AI/ML Engineer
-    LangChain • Python • JavaScript • SQL
-    ETL Pipelines • Data Engineering
-    Tech news • Music • Hard games • 3D modeling
-</pre>|<img src="https://github.com/Jimbotz/Jimbotz/raw/main/images/hi.gif" height="100" align="right" />|
+<div style="flex: 1;">
+<pre>
+Developer • AI/ML Engineer
+LangChain • Python • JavaScript • SQL
+ETL Pipelines • Data Engineering
+Tech news • Music • Hard games • 3D modeling
+</pre>
+</div>
+
+<div style="flex: 1; text-align: right;">
+<img src="https://github.com/Jimbotz/Jimbotz/raw/main/images/hi.gif" height="100" />
+</div>
+
+</div>
 
 ---
 
