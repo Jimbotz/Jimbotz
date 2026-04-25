@@ -1,6 +1,8 @@
-# Hey, I'm Jayme Said Barbosa Hernandez! <img src="https://github.com/Jimbotz/Jimbotz/raw/main/images/hi.gif" height="60" />
+# Hey, I'm Jayme Said Barbosa Hernandez!
 
 ## AI Engineering Student | IPN
+
+<img align="right" src="https://github.com/Jimbotz/Jimbotz/raw/main/images/hi.gif" height="80" />
 
 ---
 
@@ -34,6 +36,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jimbotz&label=Profile%20Views&color=000&style=flat-square" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Jimbotz&color=000&style=flat-square" />
